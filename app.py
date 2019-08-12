@@ -8,7 +8,7 @@ data = [{'id': 1, 'name': 'iFunded', 'url': 'https://ifunded.de/en/'},
         {'id':5, 'name': 'Realty Mogul', 'url': 'https://www.realtymogul.com'}]
 
 # API Key for screenshotmachine
-key = 'be0cdc'
+key = ''
 
 
 for i in range(5):
